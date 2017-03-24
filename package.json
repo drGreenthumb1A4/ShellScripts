@@ -1,0 +1,19 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "child-process": "^1.0.2",
+    "express": "^4.15.2",
+    "form-data": "^2.1.2",
+    "node-fetch": "^1.6.3",
+    "sleep": "^5.1.0"
+  }
+}
