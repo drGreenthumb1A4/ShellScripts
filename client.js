@@ -13,7 +13,7 @@ function eggzecute() {
             {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ 'temp': rjesenje })
+                body: JSON.stringify({ 'temp': rjesenje, 'comp':'121' })
             })
             .then(function (res) {
                 return res.json();
