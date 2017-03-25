@@ -22,5 +22,5 @@ function eggzecute() {
             })
     })
 }
-setInterval(eggzecute, 5000);
+setInterval(eggzecute, 60000);
 
